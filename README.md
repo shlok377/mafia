@@ -1,2 +1,2 @@
 # mafia.github.io
-not to be used
+shooting game (learning)
